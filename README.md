@@ -9,7 +9,7 @@ This is not just a side project...
 
 ## Learning Objectives
 There are numerous skills that I want to learn or improve upon.
-- Learn git and the CI/DI process
+- Learn git and the CI/CD process
 - Expand my coding skills
 - Implement automation
 - Improve documentation
