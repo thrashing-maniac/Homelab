@@ -45,6 +45,10 @@ There are numerous skills that I want to learn or improve upon.
 - 
 
 #### Planned
+- Homepage
+- Paperless-ngx
+- Wallabag
+- Kubernetes
 - Wazuh
 - Grafana
 - Prometheus
